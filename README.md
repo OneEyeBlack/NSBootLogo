@@ -7,7 +7,7 @@ Create Bootlogos for Nintendo Switch.
 # HOW TO USE?
 
 1. Unzip the file.
-2. Place the images inside the Images folder
+2. Place the images (308x350)px inside the Images folder.
 3. Run the program.
 4. Press Create.
 5. Enter the Bootloaders folder.
